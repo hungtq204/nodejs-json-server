@@ -569,5 +569,12 @@
 				"https://cdn.dummyjson.com/product-images/30/thumbnail.jpg"
 			]
 		}
-	]
+	],
+	"carts":[],
+	"orders"	:[],
+	"categories":[],
+	"brands":[],
+	"todos":[],
+	"comments":[]
+
 }
